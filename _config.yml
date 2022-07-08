@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Workout and exercise scheduler
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -26,8 +26,8 @@ your_city                                 :
 email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : zhongruige
-github_username                           : zhongruige
+twitter_username                          : 
+github_username                           : 
 youtube_username                          :
 
 
@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Your workouts, your calendar
     description                           : See your workouts and exercises in one place--right on your calendar.
-    fontawesome_icon_name                 : calendar-days
+    fontawesome_icon_name                 : calendar
 
   - title                                 : Build workouts
     description                           : Add exercises and build workout routines.
@@ -78,7 +78,7 @@ device_color                              : blue                                
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#af52de"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -87,7 +87,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#af52de"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"

@@ -22,3 +22,12 @@ Initial release of Fituler!
 - Also update the calendar event when a workout or exercise is edited (including title, URL and notes)
 
 <br>
+
+## **Version 1.5**
+1.5 was released with a new feature where you can add a workout to your calendar when importing it from the share sheet.
+
+> ⚠️ If you're upgrading from a version prior to 1.5, you'll need to launch the app first before you can schedule the workouts from the share sheet.
+
+#### What's New
+- You can now add an imported workout right to your calendar when importing it from the share sheet.
+<br>

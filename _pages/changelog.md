@@ -7,6 +7,16 @@ include_in_header: true
 # Changelog
 <br>
 
+### `iPad Support`
+# **Version 2.0**
+
+Version 2.0 of Fituler is here! This release adds in support for iPad and iCloud syncing between devices--no extra purchases required.
+
+#### What's New
+- You can now use Fituler on iPad--fully supported.
+- Workouts, exercises, and progress will sync between devices. Add and schedule on iPhone, and see the same workouts and exercises on iPad.
+<br>
+
 ### `Initial Release`
 # **Version 1.0**
 

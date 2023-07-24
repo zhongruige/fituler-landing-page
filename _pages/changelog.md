@@ -5,6 +5,13 @@ include_in_header: true
 ---
 
 # Changelog
+
+<br>
+
+## **Version 2.1**
+
+Version 2.1 of Fituler includes filtering on Workouts and Exercises by type and recently created.
+
 <br>
 
 ### `iPad Support`

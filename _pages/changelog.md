@@ -8,6 +8,12 @@ include_in_header: true
 
 <br>
 
+## **Version 2.1.1**
+
+Version 2.1.1 of Fituler addresses an issue where the timer didn't properly adjust when the app goes into the background.
+
+<br>
+
 ## **Version 2.1**
 
 Version 2.1 of Fituler includes filtering on Workouts and Exercises by type and recently created.
